@@ -42,3 +42,26 @@
 
 7. **grep -i "String" /Directory path** : This command will pick the string irrespective of any case-sensitive text format. 
    Eg: **STring or string, STRING, sTiNg** etc...
+
+
+
+## Shell Commands Learnt On 13th Oct 2026
+
+1. **touch** :  This will create files in a directory
+
+2. **cp /(Source-path)/Single_File.txt /(Destination - path)** : This will copy the file to the destination location path.
+
+3. **cp /(Source-path)/*** **/(Destination - path)** : This will copy all files to the destination location path.
+
+4. **cp -r /(Source-Location) /(Destination - Location)** : This will copy entire folder recursively to the destination location path.
+
+5. **rm /(Directory-Path)/(File.txt)** : This will remove the specified file from the directory without any info prompt.
+
+6. **rm /Directory/(*)**: This will remove the all files from the directory without any info prompt.
+
+7. **rm -i /(Directory-Path)/(File.txt) or (folder)** : This will prompt for confirmation before deletion of file or folder.
+
+8. **rm -r /(Directory-Path)/(Folder)** : This will remove the specified folder from the directory without any info prompt.
+
+9. **rm -rf /Directory/(folder)** : This will remove recursively & Forcefully the specified folder from the directory without any info prompt.
+
